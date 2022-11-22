@@ -11,12 +11,12 @@
    <a href="https://github.com/mgckaled">
       <img alt="Made by mgckaled" src="https://img.shields.io/badge/made%20by-mgckaled-yellow">
    </a>
-   <img alt="GitHub Repo Size" src="https://img.shields.io/github/repo-size/mgckaled/ignite-nodejs-c1-d1_conceitos">
-   <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/mgckaled/ignite-nodejs-c1-d1_conceitos">
-   <a href="https://github.com/mgckaled/ignite-nodejs-c1-d1_conceitos/commits/main">
-      <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/mgckaled/ignite-nodejs-c1-d1_conceitos">
+   <img alt="GitHub Repo Size" src="https://img.shields.io/github/repo-size/mgckaled/ignite-nodejs-c1-d2_middlewares">
+   <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/mgckaled/ignite-nodejs-c1-d2_middlewares">
+   <a href="https://github.com/mgckaled/ignite-nodejs-c1-d2_middlewares/commits/main">
+      <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/mgckaled/ignite-nodejs-c1-d2_middlewares">
    </a>
-   <img alt="license" src="https://img.shields.io/github/license/mgckaled/ignite-nodejs-c1-d1_conceitos">
+   <img alt="license" src="https://img.shields.io/github/license/mgckaled/ignite-nodejs-c1-d2_middlewares">
 </div>
 <br>
 

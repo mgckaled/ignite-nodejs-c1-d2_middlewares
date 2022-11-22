@@ -29,7 +29,7 @@
 
 <br>
 
-# Ignite Node.js - Desafio 012 (Chapter 1)
+# Ignite Node.js - Desafio 02 (Chapter 1)
 
 <div align="center">
 
